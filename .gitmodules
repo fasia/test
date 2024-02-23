@@ -1,0 +1,3 @@
+[submodule "resume/themes/devise"]
+	path = resume/themes/devise
+	url = https://github.com/austingebauer/devise.git
