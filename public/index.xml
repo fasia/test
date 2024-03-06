@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F.S.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on F.S.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2024, Faezeh Siavashi</copyright>
+    <lastBuildDate>Sun, 03 Mar 2024 20:04:38 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Achievements</title>
+      <link>http://localhost:1313/achievements/</link>
+      <pubDate>Sun, 03 Mar 2024 20:04:38 -0500</pubDate>
+      <guid>http://localhost:1313/achievements/</guid>
+      <description>Achievements TCSE Distinguished Awards Our team at McSCert received the prestigious TCSE Distinguished Awards for outstanding contributions that stand as a model in the software engineering community of effective partnership between industry and universities (2024) AWS ML Scholarship by Udacity (2021) Best Student Paper Award by Int. Conference on Software Engineering and Applications (2016) Grace Hopper Scholarship by Anita Borg Institute to attend Grace Hopper Conference on Women in Computing (2016) Research Excellence Award by Ulla Tuominen Research Foundation (2015) Research Mobility Grant for a research visit at Saarland University by Harry Elvings Legat (2015) Postgraduate Research Grant by Åbo Akademi University (2015 – 2018) </description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 03 Mar 2024 20:04:38 -0500</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Projects ORF mHealth: A project to advance mobile health in Ontario. (2023-ongoing)&#xA;ORF, CA FedDev Automotive Project: A Canadian federal government project on integration advanced technologies for the development of next-generation vehicles.(2022 – 2023)&#xA;FedDev, CA MegaModelling at Runtime: A project on scalable model-based framework for continuous development and runtime validation of complex systems.(2017-2020)&#xA;MegaModelling, EU PAM: Practical Applications of Model-based technologies to continuous integration &amp;amp; testing methodologies.(2012-2015)&#xA;PAM, FI </description>
+    </item>
+    <item>
+      <title>- Our team at McSCert received the prestigious TCSE Distinguished Award! 🎉 </title>
+      <link>http://localhost:1313/posts/p4/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/p4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>- Our paper is nominated as best industrial paper at ISSRE&#39;23.</title>
+      <link>http://localhost:1313/posts/p1/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/p1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>- Our paper is accepted at MODELS&#39;23!</title>
+      <link>http://localhost:1313/posts/p3/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/p3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>- Our paper is accepted at ISSRE&#39;23!</title>
+      <link>http://localhost:1313/posts/p2/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/p2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Sun, 30 Oct 2022 20:04:38 -0600</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Publications Bridging the Gap Between System Architecture and Software Design using Model Transformation, ISSRE, 2023. Faezeh Siavashi, Horacio H. Rodriguez, Vera Pantelic, Mark Lawford, Richard Paige, Monika Jaskolka, Guanrui Hou, Alessandro Verde.&#xA;An Automotive Architecture Product Line for E/E Powertrain Architectures, MODELS, 2023. Horacio H. Rodriguez, Naveen G. Muralidharan, Faezeh Siavashi, Vera Pantelic, Victor Bandur, Mark Lawford, Richard F. Paige. Model-based Verification and Testing of Web services: Functionality, Robustness and Vulnerability Analysis, Åbo Akademi-Åbo Akademi University, 2020.</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Sun, 30 Oct 2022 20:13:16 -0500</pubDate>
+      <guid>http://localhost:1313/education/</guid>
+      <description>Academia Ph.D., Software Engineering (2020)&#xA;Åbo Akademi University, FI MSc., Embedded Computing (2012)&#xA;Åbo Akademi University, FI BSc., Software Engineering (2006)&#xA;Azad Tehran University, IR Teaching Python programming language, Teaching Assistant (2018)&#xA;Åbo Akademi University, Computer Science Department, FI Developing Web Application and Services, Teaching assistant (2017) Åbo Akademi University, Computer Science Department, FI Supervision FedDev project Internship: Justin Chang (2022-2023)&#xA;McMaster University, Computing and Software Department, CA Master thesis entitled: &amp;ldquo;GeM a generic tool for mutation testing&amp;rdquo; by Melvin Mathews (2015) Åbo Akademi University, Computer Science Department, FI First job: Test Automation Developer at Sanoma Pro </description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
